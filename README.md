@@ -9,7 +9,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaBevilacqua&theme=gotham)
 
 
-## Languages that I use
+## Languages and Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,ts,htmx,mysql,php,java,react,linux" />
