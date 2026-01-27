@@ -34,9 +34,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaBevilacqua&theme=gotham&utcOffset=8) 
 
-
-## The most famous GitHub's snake!
-
 ![snake animation](https://github.com/GaBevilacqua/GaBevilacqua/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
